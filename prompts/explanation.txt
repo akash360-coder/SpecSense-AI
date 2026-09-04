@@ -1,0 +1,7 @@
+Explain why this product is a good recommendation for the user.
+User Query: "{query}"
+Product: {product_name}
+Criteria Met: {hard_matches}
+Soft Matches: {soft_matches}
+Trade-offs: {trade_offs}
+Write a 2-3 sentence explanation that's concise, specific, and action-oriented.

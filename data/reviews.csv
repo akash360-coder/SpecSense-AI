@@ -1,0 +1,13 @@
+product_id,reviewer_name,review_text,rating
+1,Ashok,"Very good for coding and daily use",4.6
+1,Neha,"Battery lasts through workday",4.5
+2,Raj,"Lightweight and premium feel",4.8
+2,Priya,"Great battery backup for travel",4.9
+3,Arun,"Excellent for gaming and rendering",4.7
+3,Meera,"Heavier but powerful",4.4
+4,John,"Amazing battery and portability",4.9
+4,Sara,"Great for students and creators",4.8
+5,Nitin,"Very fast, but expensive",4.6
+5,Anjali,"Premium performance with powerful GPU",4.8
+6,Deepa,"Affordable and easy to carry",4.4
+6,Rahul,"Works well for browsing and coding",4.3

@@ -1,0 +1,5 @@
+Analyze the following recommendation gap and suggest alternatives.
+User Query: "{query}"
+Recommended Product: {product_name}
+Missing Criteria: {unmet_needs}
+Return a concise JSON with: {"alternative_products": ["..."], "trade_offs": ["..."], "next_steps": ["..."]}

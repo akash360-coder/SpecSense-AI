@@ -1,0 +1,4 @@
+user_id,name,age,budget,context_tags,product_history
+1,Akash,26,50000,"tech,budget,gaming","laptop-1,laptop-3"
+2,Neha,30,70000,"student,travel,work","laptop-2"
+3,Ravi,22,30000,"coding,student","laptop-6"

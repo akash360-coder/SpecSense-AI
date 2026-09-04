@@ -1,0 +1,7 @@
+product_id,name,category,price,weight_kg,battery_life_hours,ram_gb,storage_gb,processor,gpu,description,availability
+1,Inspiron 15, Laptop, 32000, 1.8, 8, 8, 512, i5, Integrated, Budget-friendly everyday laptop, In Stock
+2,ThinkPad X1, Laptop, 54000, 1.2, 12, 16, 512, i7, Integrated, Lightweight premium business laptop, In Stock
+3,Legion 5, Laptop, 62000, 2.4, 6, 16, 512, Ryzen 7, RTX 3060, Gaming laptop with strong graphics, In Stock
+4,MacBook Air, Laptop, 78000, 1.2, 18, 16, 512, M2, Integrated, Thin and battery efficient, Limited
+5,ROG Strix, Laptop, 95000, 2.2, 7, 32, 1024, i9, RTX 4070, High-end gaming and productivity notebook, Pre-order
+6,IdeaPad Slim 3, Laptop, 25000, 1.9, 9, 8, 256, Ryzen 5, Integrated, Cheapest practical option for basic work, In Stock

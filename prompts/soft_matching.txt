@@ -1,0 +1,5 @@
+Given product specs and customer reviews, determine if this product matches the user need.
+User Need: "{soft_need}"
+Product: {product_json}
+Reviews: {review_snippets}
+Respond with JSON: {"matches": true/false, "confidence": 0-100, "reasoning": "..."}
