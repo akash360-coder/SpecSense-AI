@@ -6,7 +6,7 @@ The system also provides clear explanations for recommendations, helping users u
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Natural-Language Query Processing**
   - Extracts shopping requirements from user queries.
@@ -34,7 +34,7 @@ The system also provides clear explanations for recommendations, helping users u
 
 ---
 
-## 🏗️ System Workflow
+##  System Workflow
 
 ```text
 User Shopping Query
